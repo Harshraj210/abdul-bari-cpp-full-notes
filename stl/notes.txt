@@ -13,3 +13,10 @@ increasing size oof array --> first (int *A = new intr[10])
            2 LIST - SINGLE LINK LIST, DOUBLE LINK LIST
 
            3 DEQUE - INSERTION OF ELEMENTS FROM BOTH SIDES 
+
+           4 PRIORITY DEQUEUE --> special type of queue where each element has a "priority" associated with it. Instead of processing elements in the order they were added (like a regular "first-in, first-out" queue), a priority queue processes elements in order of their priority.
+           Elements with higher priority are served before elements with lower priority.
+
+           5 STACK --> LIFO (LAST IN FIRST OUT)
+
+
