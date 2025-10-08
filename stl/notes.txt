@@ -1,1 +1,4 @@
 Data structure --> Arrangement of Data in efficient way
+
+increasing size oof array --> first (int *A = new intr[10])
+                          --> second ( A = new int[20] )
