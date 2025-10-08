@@ -2,3 +2,10 @@ Data structure --> Arrangement of Data in efficient way
 
 increasing size oof array --> first (int *A = new intr[10])
                           --> second ( A = new int[20] )
+            TEMPLATE CLASSES
+
+           1  VECTOR -- > Dynamic Sizing: This is its main advantage. You don't need to specify its size when you create it. You can just keep adding elements, and the vector will manage its own memory.
+
+           2 LIST - SINGLE LINK LIST, DOUBLE LINK LIST
+
+           3 DEQUE - INSERTION OF ELEMENTS FROM BOTH SIDES 
