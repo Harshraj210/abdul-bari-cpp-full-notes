@@ -21,5 +21,6 @@ increasing size oof array --> first (int *A = new intr[10])
 
            6 SET -- > every element is unique
            7 MULTISET --> elements may be dublicate 
+           8 MAP -->  stores value in key value pair
 
 
