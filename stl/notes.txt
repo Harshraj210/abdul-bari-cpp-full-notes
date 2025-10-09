@@ -37,7 +37,14 @@ increasing size oof array --> first (int *A = new intr[10])
 
            for iterating throgh array 
            for (int x : v)
-            cout<<x
+            cout<<x;
+
+            ANOTHER METHOD {
+              vector<int>:: ITERATOR ITR;
+              FOR (ITR=V.BEGIN(); ITR=V.END();ITR++){
+                COUT<<*ITR
+              }
+            }
 
 
 
