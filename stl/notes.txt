@@ -5,6 +5,7 @@ increasing size oof array --> first (int *A = new intr[10])
             TEMPLATE CLASSES
 
            1  VECTOR -- > Dynamic Sizing: This is its main advantage. You don't need to specify its size when you create it. You can just keep adding elements, and the vector will manage its own memory.
+           creates it's own space
            push_back(): Adds an element to the end.
            pop_back(): Removes the last element.
 
