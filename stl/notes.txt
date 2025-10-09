@@ -35,5 +35,9 @@ increasing size oof array --> first (int *A = new intr[10])
            v = {10,20,40}
            v.push_back(25)
 
+           for iterating throgh array 
+           for (int x : v)
+            cout<<x
+
 
 
