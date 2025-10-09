@@ -46,5 +46,7 @@ increasing size oof array --> first (int *A = new intr[10])
               }
             }
 
+            we can use list Instead of vector for adding ele.
+
 
 
