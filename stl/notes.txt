@@ -25,3 +25,9 @@ increasing size oof array --> first (int *A = new intr[10])
            9 MULTIMAP --> stores value in key value pair (SAME KEY BUT DIFFERENT  VALUE)
 
 
+           USE STL CLASSES VECTOR
+
+
+           1. Include the necessary header file (e.g., #include <vector>).
+
+
